@@ -9,6 +9,10 @@ This project aims to clean and prepare quality productdata dataset and document 
 ### Data Cleaning 
 
 In the initial phase of the data cleaning and preparation, the following actions was performed;
+data loading and inspections,handling missing values and duplicates,standardizing inconsistent formats.
 
+The following issues was identified and addresed:
+
+- Duplicates was removed from the dataset
 
 
