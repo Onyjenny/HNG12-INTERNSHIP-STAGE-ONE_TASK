@@ -17,4 +17,6 @@ The following issues was identified and addresed:
 
 - Missing values was filtered out from the data and further replaced with N/A.
 
-- data formats of TITLE AND BULLETPOINT was standardized
+- inconsistent data formats such as improper fonts,irregular spacing and column names was standardized
+
+### Short Title Feature
