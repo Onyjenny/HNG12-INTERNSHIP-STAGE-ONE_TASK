@@ -20,3 +20,13 @@ The following issues was identified and addresed:
 - inconsistent data formats such as improper fonts,irregular spacing and column names was standardized
 
 ### Short Title Feature
+
+In order to generate Short product titles while retaining key information.The steps taken involve;
+
+- the product name,category and attributes were identified.
+
+- redundant phrases and words was removed from the titles
+
+- titles were limited to miximum of 50 characters
+
+  
