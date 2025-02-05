@@ -8,5 +8,7 @@ This project aims to clean and prepare quality productdata dataset and document 
 
 ### Data Cleaning 
 
-Data quality issu
+In the initial phase of the data cleaning and preparation, the following actions was performed;
+
+
 
