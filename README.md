@@ -15,4 +15,6 @@ The following issues was identified and addresed:
 
 - Duplicates was removed from the dataset
 
+- Missing values was filtered out from the data and further replaced with N/A.
 
+- data formats of TITLE AND BULLETPOINT was standardized
