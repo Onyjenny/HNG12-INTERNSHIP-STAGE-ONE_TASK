@@ -27,6 +27,21 @@ In order to generate Short product titles while retaining key information.The st
 
 - redundant phrases and words was removed from the titles
 
-- titles were limited to miximum of 50 characters
+- titles were limited to maximum of 50 characters
 
-  
+  Examples of Optimized title include:
+
+  - Original Title : Kenneth Cole Reaction Men'S Crespo Loafer B Shoe, Cognac, 10 M Us
+
+   Short Title: Kenneth Cole Reaction Men'S Crespo Loafer B Shoe 
+
+  - Original Title : Sluban Building And Construction Blocks M38 B0311 Joint Attack Building Block Construction Set (996 Piece)
+
+  - Short Title : Sluban Building And Construction Blocks M38 B0311 
+
+
+
+    
+
+
+
