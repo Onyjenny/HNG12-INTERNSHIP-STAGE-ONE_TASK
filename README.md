@@ -1,6 +1,6 @@
 # HNG12-INTERNSHIP-STAGE-ONE TASK
 
-### PROJECT TITLE : Data Cleaning, Preparation and Title Optimization 
+### REPORT TITLE : Data Cleaning, Preparation and Title Optimization 
 
 ### Introduction
 
@@ -19,7 +19,7 @@ The following issues was identified and addresed:
 
 - inconsistent data formats such as improper fonts,irregular spacing and column names was standardized
 
-### Short Title Feature
+### Short Title Creation
 
 In order to generate Short product titles while retaining key information.The steps taken involve;
 
@@ -38,6 +38,8 @@ In order to generate Short product titles while retaining key information.The st
   - Original Title : Sluban Building And Construction Blocks M38 B0311 Joint Attack Building Block Construction Set (996 Piece)
 
   - Short Title : Sluban Building And Construction Blocks M38 B0311 
+
+### Key Insights 
 
 
 
